@@ -10,3 +10,4 @@ func({});
 
 
 let arr = [];
+let arr2 = [2];
