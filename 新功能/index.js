@@ -7,3 +7,6 @@ function func({name = "detail",age = 22}){
 };
 
 func({});
+
+
+let arr2 = [2];
