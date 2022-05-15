@@ -1,6 +1,1 @@
-let obj = "1234";
-
-
-
-
-
+const result = [];
